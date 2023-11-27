@@ -98,7 +98,7 @@ h1{
     background-color:hsl(158, 94%, 35%); 
     cursor: pointer;
     transition: 1s ease;
-    transform: scale(1.1);
+    
 }
 
 .txt-compras{
