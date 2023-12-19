@@ -23,7 +23,7 @@ body{
     
 }
 
-.verde{
+.imagem-fundo{
     background-image: url(../img/image-product-desktop.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -31,23 +31,24 @@ body{
     border-radius: 10px 0px 0px 10px;
     background-color: green;
     width: 300px;
-    height: 400px;
+    height: 450px;
 }
 
 
 
-.branco{
+.conteudo{
     background-color: white;
     width: 300px;
-    height: 400px;
+    height: 450px;
     border-radius: 0px 10px 10px 0px;
     padding: 20px;
+    
 }
 
 h1{
     font-family: 'Fraunces', serif;
     font-size: 35px;
-    line-height: 30px;
+    line-height: 40px;
     padding-bottom: 10px;
     padding-left: 10px;
    

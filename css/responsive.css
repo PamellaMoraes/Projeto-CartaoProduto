@@ -8,7 +8,7 @@
        
     }
     
-    .verde{
+    .imagem-fundo{
         background-image: url(../img/image-product-desktop.jpg);
         background-size: cover;
         background-repeat: no-repeat;
@@ -20,7 +20,7 @@
     
     
     
-    .branco{
+    .conteudo{
         background-color: white;
         width: 300px;
         height: 400px;
