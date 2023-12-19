@@ -1,14 +1,13 @@
-# Projeto-CartaoProduto
-Componente do cartão de visualização do produto
+Projeto Cartão de Visualização do Produto
 
-1.Descrição do projeto:
-Um cartão de um produto com breve discrição e botão de adicionar ao carrinho de compras.
+🔍 Introdução
+O projeto "Cartão de Visualização do Produto" é uma proposta de interface para apresentar detalhes de um produto de beleza, focando em um perfume chamado "Gabrielle Essence Eau De Parfum". Este cartão oferece uma experiência elegante e informativa, destacando elementos essenciais como preço, descrição e a opção de adicionar o produto ao carrinho de compras.
 
-2. Funcionalidades do projeto:
-Esse projeto é um desafio do site Frontend Mentor para testar e aprimorar meus conhecimentos e habilidades básicas do Html5 e Css3.  Possui responsividade.
+Media Queries:
+Ajustes de layout para telas menores, garantindo uma experiência consistente.
+Alterações nas dimensões e estilos para uma adaptação eficaz.
 
-3. Tecnologias utilizadas:
-Html5 e Css3.
-
-4. Status do projeto:
+📈 Status do Projeto
 Finalizado.
+
+Agradecemos por conferir este projeto! Se tiver alguma dúvida ou feedback, sinta-se à vontade para entrar em contato.
